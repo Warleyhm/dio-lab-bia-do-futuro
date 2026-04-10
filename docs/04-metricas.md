@@ -53,11 +53,17 @@ Crie testes simples para validar seu agente:
 Após os testes, registre suas conclusões:
 
 **O que funcionou bem:**
-- [Liste aqui]
 
+- O sistema utilizou corretamente os dados fornecidos (JSON/CSV) para gerar respostas contextualizadas.
+- A interação no chat foi rápida e funcionou de forma estável durante os testes.
+- O FinAI conseguiu responder perguntas básicas sobre conceitos financeiros, como CDI e tipos de investimento.
+  
 **O que pode melhorar:**
-- [Liste aqui]
-
+  
+- Algumas respostas poderiam ser mais detalhadas para aprofundar determinados conceitos financeiros.
+- O chatbot pode melhorar na interpretação de perguntas mais complexas ou com múltiplos temas.
+- É possível aprimorar a personalização das respostas com base no perfil do investidor.
+- Melhorar o tratamento de erros ou quando a informação não está disponível na base de dados.
 ---
 
 ## Métricas Avançadas (Opcional)
