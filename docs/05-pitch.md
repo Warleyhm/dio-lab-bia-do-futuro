@@ -46,5 +46,3 @@ O impacto dessa solução está em ajudar pessoas a entender melhor suas finanç
 ## Link do Vídeo
 
 https://drive.google.com/file/d/11LeBssvjFeJYXhYQE1953u4pRHee_Hrn/view?usp=drive_link
-
-[Link do vídeo]
